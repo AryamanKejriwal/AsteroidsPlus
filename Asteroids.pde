@@ -1,3 +1,5 @@
+//Author: Aryaman Kejriwal
+//Sorry for the messy code :)
 
 SpaceShip player = new SpaceShip(0, 0, 0, 0, 0);
 
